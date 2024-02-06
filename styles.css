@@ -89,5 +89,12 @@ body {
     border-radius: 25px; 
 }
 
+.result {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 4rem;
+}
+
 
 
