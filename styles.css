@@ -72,19 +72,20 @@ body {
     padding: 1em;
 }
 
-.btn1, .btn2, .btn3,
-.btn4, .btn0, .btn6 {
+.numbers,
+.operators {
     border: 0;
 }
 
-.btn1, .btn2, .btn3,
-.btn4, .btn6 {
+
+.numbers, 
+.operators {
     height: 5em;
     width: 5em;
     border-radius: 50%;
 }
 
-.btn0 {
+#btn0 {
     width: 300px;
     border-radius: 25px; 
 }
